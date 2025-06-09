@@ -58,8 +58,8 @@ Built with React Native and Node.js using Socket.io for real-time chat capabilit
 
 ## 🤝 Let’s Connect!
 
-- 📬 Email: yashwanth070@example.com *(replace with your email)*
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yashwanth070) *(optional link)*
+- 📬 Email: yashwanthdodda28@gmail.com
+- 🔗 [LinkedIn](www.linkedin.com/in/yashwanth-dodda-4070d) 
 - 🧠 Currently open to internships, freelance work, and project collaborations!
 
 ---
