@@ -70,10 +70,4 @@ Built with React Native and Node.js using Socket.io for real-time chat capabilit
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth070&layout=compact&theme=tokyonight)
 
----
 
-## ⚡ Fun Fact
-
-I love experimenting with AI and built my first voice bot before even learning how HTTP really works! 😄
-
-> "The best way to learn is by building. Break things. Fix them. Learn. Repeat." 🚀
