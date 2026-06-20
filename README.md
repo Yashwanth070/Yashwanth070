@@ -62,12 +62,6 @@ Built with React Native and Node.js using Socket.io for real-time chat capabilit
 - 🔗 [LinkedIn](www.linkedin.com/in/yashwanth-dodda-4070d) 
 - 🧠 Currently open to internships, freelance work, and project collaborations!
 
----
 
-## 📈 GitHub Stats
-
-![Yashwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashwanth070&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth070&layout=compact&theme=tokyonight)
 
 
