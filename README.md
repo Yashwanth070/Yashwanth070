@@ -39,23 +39,6 @@ I'm a passionate and curious developer with a strong interest in **Full Stack De
 
 ---
 
-## 📱 Recent Project Highlights
-
-### 🩺 Smart Health Assistant
-An intelligent voice-enabled app that uses Microsoft Azure Cognitive Services and GitHub Copilot to:
-- Convert speech to text
-- Analyze health-related queries
-- Provide real-time health guidance using AI
-
-**Tech Stack:** Azure Bot Framework, Python, Flask, GitHub Copilot
-
-### 💬 Real-Time Messaging App
-Built with React Native and Node.js using Socket.io for real-time chat capabilities. Modular, scalable architecture with easy expansion support.
-
-**Tech Stack:** React Native, Express, Socket.io, Expo
-
----
-
 ## 🤝 Let’s Connect!
 
 - 📬 Email: yashwanthdodda28@gmail.com
