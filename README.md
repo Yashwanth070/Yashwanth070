@@ -1,4 +1,4 @@
-# I'm Yashwanth — Welcome to my GitHub!
+# I'm Yashwanth — Welcome to my GitHub.
 
 I'm a passionate and curious developer with a strong interest in **Full Stack Development**, **Cybersecurity**, and **Artificial Intelligence**. I love building projects that combine **technology, creativity**, and **problem-solving**—and I'm always exploring new tools and frameworks to enhance my skills.
 
