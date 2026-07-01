@@ -47,7 +47,7 @@ I'm a passionate and curious developer with a strong interest in **Full Stack De
 
 ---
 
-## 🐍 My Contributions
+## My Contributions
 
 <div align="center">
   <picture>
