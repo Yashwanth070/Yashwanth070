@@ -45,6 +45,14 @@ I'm a passionate and curious developer with a strong interest in **Full Stack De
 - 🔗 [LinkedIn](www.linkedin.com/in/yashwanth-dodda-4070d) 
 - 🧠 Currently open to internships, freelance work, and project collaborations!
 
+---
 
+## 🐍 My Contributions
 
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashwanth070/Yashwanth070/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashwanth070/Yashwanth070/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yashwanth070/Yashwanth070/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
